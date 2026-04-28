@@ -13,4 +13,4 @@ Phân tích dữ liệu chuyến bay nhằm khám phá các yếu tố gây dela
 ## How to Run
 1. Clone repo: `git clone ...`
 2. Cài thư viện: `pip install -r requirements.txt`
-3. Mở notebook: `jupyter notebook notebooks/midterm_analysis.ipynb`
+3. Mở notebook: `jupyter notebook notebooks/predicting_flights_delay.ipynb`
