@@ -1,4 +1,4 @@
-# Flight Data Analysis — Data Mining Midterm
+# Flight Data Analysis — Data Mining Project
 
 ## Overview
 Phân tích dữ liệu chuyến bay nhằm khám phá các yếu tố gây delay...
